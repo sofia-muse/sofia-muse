@@ -1,29 +1,25 @@
-# Hi, I'm Sofia 👋
+# Hi, I'm Sofia Museichuk
 
-**Full Stack .NET Developer** at Ewave Online. I ship production features end-to-end on multilingual web platforms — from requirements through deployment — across public-sector, financial-services, and enterprise web.
+**Full-Stack .NET Developer based in Tel Aviv, Israel**
 
-I'm comfortable in both legacy and greenfield codebases, and I like working directly with stakeholders on tight delivery cycles.
+I build web applications with C#, ASP.NET, SQL Server and JavaScript. My commercial experience at eWave Online includes client dashboards, legacy SQL modernization, workflow automation, bilingual interfaces and external integrations.
 
----
+I'm currently developing independent projects and looking for my next full-stack .NET role in Israel or a remote team open to Israel-based developers.
 
-### 🛠️ What I work with
+## Selected projects
 
-- **Backend:** C# · ASP.NET Core (.NET 6 / 8) · ASP.NET Web API (.NET Framework 4.8) · REST APIs · Dependency Injection
-- **Data:** SQL Server (T-SQL, stored procedures, indexing) · Entity Framework Core & EF 6 · LINQ
-- **Frontend:** JavaScript · jQuery · Razor · React + TypeScript (Vite) · HTML / CSS / SASS
-- **CMS:** Umbraco 13 / 10 / 7 · Forms · uSync · ModelsBuilder
-- **Cloud & DevOps:** Azure (App Service, Blob, AD) · Azure DevOps CI/CD · GitHub Actions · Docker · Git
+- **[Insurance Management API](https://github.com/sofia-muse/insurance-management-system)** — ASP.NET Core 8, EF Core and SQL Server. Policy workflows with idempotent writes, audit events, business rules, and unit/integration tests.
+- **[Mikhtav](https://github.com/sofia-muse/mikhtav)** — React/TypeScript frontend and .NET 8 API for a multilingual catalog explaining Israeli letters. Includes language fallback, RTL support and service/UI tests.
+- **[Life RPG](https://github.com/sofia-muse/life-rpg)** — An ongoing React Native/Expo and .NET project exploring habit tracking, progression and offline synchronization. Still under development.
 
-### ⚙️ How I work
+## Technologies
 
-- Service-layer business logic with layered architecture and DI, written to stay testable and maintainable
-- Careful integration of external systems — payment gateways, identity providers, CRM/training APIs, email/SMS, ReCaptcha — with attention to auth, error mapping, and data shape
-- AI coding agents as a structured part of the workflow (custom subagents, MCP integrations, hooks, slash commands, CLAUDE.md context), paired with disciplined human review
+**Commercial experience:** C#, ASP.NET Core MVC / Web API, .NET Framework, EF Core / EF6, SQL Server, T-SQL, JavaScript, jQuery, Razor, Umbraco, Azure and Azure DevOps.
 
-### 🌐 Languages
+**Independent projects:** React, TypeScript, React Native, Expo, Zustand and i18next.
 
-`EN` · `HE` · `UA` · `RU` · `DE`
+## Contact
 
-### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/sofia-museichuk/) · [Email](mailto:sofia.museichuk@gmail.com)
 
-[LinkedIn](https://linkedin.com/in/sofia-museichuk) · sofia.museichuk@gmail.com
+English and Hebrew: fluent · Russian and Ukrainian: native
