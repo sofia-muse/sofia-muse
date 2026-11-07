@@ -1,5 +1,13 @@
 # Hi, I'm Sofia Museichuk
 
+## Current status · 7 November 2026
+
+**Portfolio:** [sofia-muse.github.io](https://sofia-muse.github.io/) (GitHub Pages). **Live Vercel projects:** [Mikhtav](https://mikhtav.vercel.app/), [Life RPG local-progress demo](https://life-rpg-opal-nine.vercel.app/) and [Coverdesk browser simulation](https://coverdesk.vercel.app/). All three Vercel production deployments were READY and their interfaces opened successfully. Demo screens do not establish backend production readiness.
+
+![Live portfolio](docs/screenshots/portfolio-live.jpg)
+
+Captures from 7 November 2026; existing portfolio captures are explicitly labeled above.
+
 **Full-Stack .NET Developer based in Tel Aviv, Israel**
 
 I build web applications with C#, ASP.NET, SQL Server and JavaScript. My commercial experience at eWave Online includes client dashboards, legacy SQL modernization, workflow automation, bilingual interfaces and external integrations.
